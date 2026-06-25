@@ -77,8 +77,7 @@ def precargar_datos():
            'estatura':1.70,
            'estado':False,
            'telefonos': [998885557]
-    }
-    {    
+    }   
     persona3 = {'id':113,
            'nombre':'Pedrito',
            'edad':18,
